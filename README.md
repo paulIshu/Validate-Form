@@ -37,3 +37,12 @@ Message: The message field should not be empty.
 Contributing
 Contributions to this project are welcome. If you have suggestions for improvements or bug fixes, please open an issue or create a pull request on the project's GitHub repository.
 
+License
+This code is provided under the MIT License, which allows for both personal and commercial use. See the LICENSE file for more details.
+
+
+
+
+
+
+Regenerate
